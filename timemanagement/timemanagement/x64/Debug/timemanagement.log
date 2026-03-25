@@ -1,0 +1,7 @@
+﻿E:\VS\Visual Studio 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(TimeManager.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  FileManager.cpp
+  TaskManager.cpp
+  UserManager.cpp
+  main.cpp
+  正在生成代码...
+  timemanagement.vcxproj -> D:\MyProject\timemanagement\x64\Debug\timemanagement.exe
